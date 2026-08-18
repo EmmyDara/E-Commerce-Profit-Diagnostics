@@ -65,7 +65,7 @@
 ## Dashboard
 ![Dashboard Preview](dashboard_preview.png)
 
-Power BI · Star-schema model (1 fact table + 5 dimensions) · 12 DAX measures · KPI cards, trend lines, category and channel breakdowns, RFM customer segmentation, and a region-level profit/loss view.
+Power BI · Star-schema model (1 fact table + 5 dimensions)· KPI cards, trend lines, category and channel breakdowns, RFM customer segmentation, and a region-level profit/loss view.
 
 ---
 
