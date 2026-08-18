@@ -32,27 +32,29 @@ An 18,000-order e-commerce dataset (Sept 2025–Aug 2026) looked healthy on the 
 
 ## Key Findings
 
-** Revenue held. Profit didn't.**
+**1. Revenue held. Profit didn't:**
 Realized revenue stayed near ₦200–300M/month, but contribution margin fell from +13.2% to under 1% for the year — negative in most individual months.
 
-** Discounting doubled and never came back down.**
+**2. Discounting doubled and never came back down:**
 Average discount rate jumped from ~10% to ~22-23% starting Nov 2025 — company-wide, across every channel and category — and stayed there. Statistically confirmed (p ≈ 0). It didn't even work: order volume stayed flat regardless of discount size.
 
-** One category erases everyone else's gains.**
+**3. One category erases everyone else's gains:**
 Electronics runs on a 22% base margin — too thin to survive a 22% discount. It alone accounts for a **₦100M+ loss**, wiping out most of the profit every other category generates.
 
-** Two channels lose money on every naira spent.**
+**4. Two channels lose money on every naira spent:**
 Marketplace and Instagram are net-negative on marketing ROI. Website is the only channel with strong, reliable returns.
 
-** Returns quietly erase what's left.**
+**5. Returns quietly erase what's left:**
 Just 6.9% of orders are returned — but they wipe out **87%** of the profit the remaining orders generate.
 
-** One region operates at a flat-out loss — and it's not for the reason you'd expect.**
+**6. One region operates at a flat-out loss — and it's not for the reason you'd expect:**
 Delta brings in ~₦198M in revenue but is the only region with negative contribution profit. It's not a heavier Electronics mix or a higher discount rate — both are in line with every other region. The loss traces specifically to Delta's Consumer segment, where the return rate runs a full point above every other region's consumer base, and losses show up across three separate channels rather than one.
 
 ---
 
 ## Dashboard
+![Dashboard Preview](dashboard_preview.png)
+
 Power BI · Star-schema model (1 fact table + 5 dimensions) · 12 DAX measures · KPI cards, trend lines, category and channel breakdowns, RFM customer segmentation, and a region-level profit/loss view.
 
 ---
